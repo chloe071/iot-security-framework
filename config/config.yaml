@@ -1,0 +1,7 @@
+network:
+  interface: "en0"
+  timeout: 5
+  subnet: "100.69.36.0/23"
+discovery:
+  scan_limit: 100
+  common_ports: [22, 80, 443, 1883, 8080, 554, 8443, 8888, 9100]

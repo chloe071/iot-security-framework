@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-13T11:55:17.154664",
+  "total_devices": 5,
+  "critical": 0,
+  "high": 0,
+  "assessments": [
+    {
+      "ip": "100.69.36.1",
+      "score": 0.3,
+      "severity": "MEDIUM",
+      "vulns": 0
+    },
+    {
+      "ip": "100.69.36.11",
+      "score": 0.0,
+      "severity": "MEDIUM",
+      "vulns": 0
+    },
+    {
+      "ip": "100.69.36.12",
+      "score": 0.3,
+      "severity": "MEDIUM",
+      "vulns": 0
+    },
+    {
+      "ip": "100.69.36.79",
+      "score": 0.0,
+      "severity": "MEDIUM",
+      "vulns": 0
+    },
+    {
+      "ip": "100.69.36.83",
+      "score": 0.0,
+      "severity": "MEDIUM",
+      "vulns": 0
+    }
+  ]
+}
