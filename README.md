@@ -1,5 +1,7 @@
 # IoT Security Assessment Framework
 
+![tests](https://github.com/chloe071/iot-security-framework/actions/workflows/tests.yml/badge.svg)
+
 A Python tool that discovers devices on a local network, checks common IoT service ports, flags risky configurations, and produces a scored JSON risk report.
 
 > **Only run this on networks you own or are explicitly authorized to assess.**
@@ -79,7 +81,7 @@ pip install pytest
 pytest -q
 ```
 
-Unit tests cover the risk rules and confirm the score is capped at 10.
+Unit tests cover the risk rules and confirm the score is capped at 10. They run automatically on every push.
 
 ## Limitations
 
