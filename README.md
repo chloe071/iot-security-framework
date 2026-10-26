@@ -70,7 +70,7 @@ Full example reports from test runs are in [`reports/`](reports/).
 
 ## Results
 
-In my test runs (April 2026) the tool discovered 5 devices on my test network. All were rated **Low** risk, with only the baseline "unverified device" finding — no plaintext MQTT, exposed HTTP, or SSH was detected.
+Across five test runs in April 2026, the tool discovered 3–5 devices per run. No device was rated High or Critical. The first two runs rated devices Medium; the last three rated all devices Low, with only the baseline "unverified device" finding.
 
 ## Running Tests
 
